@@ -1,0 +1,8 @@
+
+
+
+#resetar a senha do usuário root no ((OTRS)) Community Edition 6
+su -c "/opt/otrs/bin/otrs.Console.pl Admin::User::SetPassword root@localhost 123456" -s /bin/bash otrs
+
+#otrs daemon
+/opt/otrs/bin/Cron.sh start otrs
