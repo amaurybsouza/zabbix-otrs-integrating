@@ -1,0 +1,9 @@
+python /usr/lib/zabbix/externalscripts/otrs_zabbix.py "{TRIGGER.STATUS}:
+{TRIGGER.NAME}" "{HOST.HOST} - {HOST.IP}" """Trigger: {TRIGGER.NAME}
+Trigger status: {TRIGGER.STATUS}
+Trigger severity: {TRIGGER.SEVERITY}
+Trigger URL: {TRIGGER.URL}
+Trigger ID: {TRIGGER.ID}
+Item values:
+1. {ITEM.NAME1} {HOST.NAME1}:{ITEM.KEY1}:{ITEM.VALUE1}
+Original event ID:""" "{EVENT.ID}" "{TRIGGER.ID}" "{TRIGGER.STATUS}"
