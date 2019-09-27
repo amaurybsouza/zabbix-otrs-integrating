@@ -8,6 +8,20 @@
 
 - Utilizar o script (install_zabbix.sh) para a instalação da aplicação de monitoramento.
 
+### Etapa 2 - Instalação de dependência nos sistemas
+
+- 
+
+### Etapa 3 - 
+
+
+
+### Etapa 4 - 
+
+
+
+### Etapa 5 - 
+
 
 
 
