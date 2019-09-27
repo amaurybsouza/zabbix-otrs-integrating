@@ -1,0 +1,376 @@
+    1  ping 8.8.8.8
+    2  dhclient
+    3  ping 8.8.8.8
+    4  poweroff 
+    5  ping 8.8.8.8
+    6  dhclient
+    7  ifco-a
+    8  ip a
+    9  poweroff 
+   10  df -h /
+   11  yum install epel-release -y
+   12  yum install firewalld -y
+   13  systemctl start enable
+   14  systemctl enable firewalld
+   15  systemctl start firewalld
+   16  vim /etc/sysconfig/selinux 
+   17  getenforce
+   18  pwd
+   19  cd /home/dicsi/
+   20  ls
+   21  ifconfig -a
+   22  cd /tmp/
+   23  ls
+   24  pwd
+   25  rpm -ivh otrs-6.0.22-01.noarch.rpm 
+   26  yum install bash-completion httpd -y
+   27  ls
+   28  yum install perl(Archive::Zip) -y
+   29  yum install perl(Archive::Zip)
+   30  perl /opt/otrs/bin/otrs.CheckModules.pl
+   31  yum install "perl(Archive::Zip)"
+   32  perl /opt/otrs/bin/otrs.CheckModules.pl
+   33  systemctl enable httpd
+   34  systemctl start httpd
+   35  yum list mysql
+   36  yum search mysql
+   37  yum install mariadb-server -y
+   38  systemctl enable mariadb
+   39  systemctl start mariadb
+   40  systemctl status mariadb
+   41  reboot 
+   42  ping 8.8..8
+   43  ping 8.8.8.8
+   44  cd /etc/sysconfig/network-scripts/
+   45  ls
+   46  ifconfig -a
+   47  dhclient
+   48  ping 8.8.8.8
+   49  pwd
+   50  cd /tmp/
+   51  ls
+   52  rpm -ivh otrs-6.0.22-01.noarch.rpmrpm 
+   53  ls
+   54  rpm -ivh otrs-6.0.22-01.noarch.rpm 
+   55  yum install -y "perl(Crypt::SSLeay)" "perl(Date::Format)" "perl(DateTime)" "perl(IO::Socket::SSL)" "perl(LWP::UserAgent)" "perl(Net::DNS)" "perl(Net::LDAP)" "perl(Template)" "perl(URI)"
+   56  rpm -ivh otrs-6.0.22-01.noarch.rpm 
+   57  yum install -y "perl(XML::LibXSLT)" perl-core procmail 
+   58  rpm -ivh otrs-6.0.22-01.noarch.rpm 
+   59  systemctl restart apache2.service
+   60  systemctl restart httpd
+   61  /opt/otrs/bin/otrs.Daemon.pl start
+   62  /opt/otrs/bin/Cron.sh start
+   63  /opt/otrs/bin/Cron.sh start OTRS_USER
+   64  /opt/otrs/bin/Cron.sh start
+   65  /opt/otrs/bin/Cron.sh start otrs
+   66  mysql_secure_installation
+   67  mysql -u root -p
+   68  firewall-cmd --permanent --add-service=http
+   69  firewall-cmd --permanent --add-service=https
+   70  firewall-cmd --reload
+   71  /opt/otrs/bin/otrs.CheckModules.pl
+   72  yum install "perl(YAML::XS)" -y
+   73  /opt/otrs/bin/otrs.CheckModules.pl
+   74  yum install "perl(Crypt::Eksblowfish::Bcrypt)" yum install "perl(DBD::Pg)" yum install "perl(Encode::HanExtra)" yum install "perl(JSON::XS)" -y
+   75  /opt/otrs/bin/otrs.CheckModules.pl
+   76  yum install "perl(Mail::IMAPClient)" yum install "perl(Authen::NTLM)" yum install "perl(ModPerl::Util)" yum install "perl(Text::CSV_XS)"-y
+   77  /opt/otrs/bin/otrs.CheckModules.pl
+   78  yum install "perl(Text::CSV_XS)" -y
+   79  /opt/otrs/bin/otrs.CheckModules.pl
+   80  vim /etc/my.cnf
+   81  systemctl restart mariadb
+   82  systemctl status mariadb.service
+   83  vim /etc/my.cnf
+   84  systemctl restart mariadb
+   85  vim /var/log/mariadb/mariadb.log 
+   86  tail -f /var/log/mariadb/mariadb.log 
+   87  systemctl status mariadb
+   88  systemctl stop mariadb
+   89  systemctl status mariadb
+   90  vim /etc/my.cnf
+   91  systemctl start mariadb
+   92  systemctl status mariadb
+   93  systemctl start mariadb
+   94  vim /etc/my.cnf
+   95  systemctl status mariadb.service
+   96  vim /etc/my.cnf]
+   97  vim /etc/my.cnf
+   98  systemctl start mariadb.service
+   99  systemctl status mariadb.service
+  100  mysqlcheck --all-databases --auto-repair --user=root --password=cnprxp06
+  101  cd /var/lib/mysql
+  102  ls
+  103  rm -rf *
+  104  ls
+  105  systemctl start mariadb
+  106  systemctl status mariadb
+  107  vim /etc/my.cnf
+  108  mysql -u root -p
+  109  mysql_secure_installation 
+  110  mysql -u root -p
+  111  vim /etc/httpd/conf/httpd.conf 
+  112  mysql -u root -p
+  113  systemctl status httpd
+  114  tail -f /var/log/httpd/error_log 
+  115  tail -f /var/log/httpd/access_log 
+  116  tail -f /var/log/httpd/error_log 
+  117  systemctl restart mariadb
+  118  systemctl status mariadb
+  119  yum install httpd-devel gcc -y
+  120  mysql -u root -p
+  121  mysql -v
+  122  mysql -V
+  123  mysql -u root -p
+  124  poweroff 
+  125  mysql -u root -p
+  126  vim /etc/httpd/conf/httpd.conf 
+  127  systemctl restart httpd
+  128  /opt/otrs/bin/Cron.sh start
+  129  /opt/otrs/bin/Cron.sh start otrs
+  130  bin/otrs.Daemon.pl status
+  131  /bin/otrs.Daemon.pl status
+  132  /opt/otrs/bin/Cron.sh start otrs
+  133  vim /opt/otrs/var/cron/otrs_daemon 
+  134  /opt/otrs/bin/Cron.sh start otrs
+  135  df -h /
+  136  rpm -ivh http://repo.zabbix.com/zabbix/3.4/rhel/7/x86_64/zabbix-release-3.4-2.el7.noarch.rpm
+  137  yum install php php-cli php-common php-devel php-pear php-gd php-mbstring php-mysql php-xml -y
+  138  ping 8.8.8.8
+  139  dhclient
+  140  yum install php php-cli php-common php-devel php-pear php-gd php-mbstring php-mysql php-xml -y
+  141  pwd
+  142  cd /home/dicsi/
+  143  ls
+  144  df -h /
+  145  mysql -u root -p
+  146  rpm --import http://repo.zabbix.com/RPM-GPG-KEY-ZABBIX
+  147  rpm -ivh http://repo.zabbix.com/zabbix/3.4/rhel/7/x86_64/zabbix-release-3.4-1.el7.centos.noarch.rpm
+  148  yum install zabbix-server-mysql zabbix-web-mysql zabbix-agent zabbix-get zabbix-sender -y
+  149  df -h /
+  150  systemctl status httpd
+  151  systemctl status mariadb
+  152  vim /etc/httpd/conf.d/zabbix.conf
+  153  systemctl reload httpd
+  154  mysql -u root -p
+  155  zcat /usr/share/doc/zabbix-server-mysql-3.4.0/create.sql.gz | mysql -uroot -p zabbixdb
+  156  mysql -u root -p
+  157  zcat /usr/share/doc/zabbix-server-mysql-3.4.0/create.sql.gz | mysql -uroot -p zabbixdb
+  158  pwd
+  159  zcat /usr/share/doc/zabbix-server-mysql-3.4.15/create.sql.gz | mysql -uroot -p zabbixdb
+  160  vim /etc/zabbix/zabbix_server.conf
+  161  firewall-cmd --permanent --add-service=http
+  162  firewall-cmd --permanent --zone=public --add-port=10051/tcp
+  163  firewall-cmd --permanent --zone=public --add-port=10050/tcp
+  164  firewall-cmd --reload
+  165  systemctl restart httpd
+  166  systemctl enable zabbix-server 
+  167  systemctl enable zabbix-agent
+  168  systemctl start zabbix-agent
+  169  yum install policycoreutils-python -y
+  170  systemctl status zabbix-server
+  171  systemctl start zabbix-server
+  172  systemctl status zabbix-server
+  173  systemctl status zabbix-agent
+  174  systemctl status sshd
+  175  systemctl status ntpd
+  176  yum install ntp -y
+  177  dhclient
+  178  ping 8.8.8.8
+  179  yum install ntp -y
+  180  systemctl enable ntpd
+  181  systemctl start ntpd
+  182  systemctl status ntpd
+  183  timedatectl 
+  184  systemctl restart ntpd
+  185  vim /etc/httpd/conf/httpd.conf 
+  186  vim /etc/zabbix/zabbix_server.conf 
+  187  grep -rin php_value date.timezone
+  188  grep -rin "php_value date.timezone"
+  189  grep -rin "php_value"
+  190  grep -rin "php_value" /etc/
+  191  vim /etc/httpd/conf.d/zabbix.conf 
+  192  systemctl restart httpd
+  193  systemctl restart ntpd
+  194  /opt/otrs/bin/Cron.sh start' otrs
+  195  /opt/otrs/bin/Cron.sh start otrs
+  196  pwd
+  197  zabbix_server -V
+  198  cat /etc/os-release 
+  199  cat /opt/otrs/RELEASE
+  200  history 
+  201  cd /home/dicsi/
+  202  ls
+  203  history > comandos_otrs_zabbix_integration
+  204  ls
+  205  cat comandos_otrs_zabbix_integration |
+  206  cat comandos_otrs_zabbix_integration | grep firewalld
+  207  cat comandos_otrs_zabbix_integration | grep firewall
+  208  yum install python-pip
+  209  pip install python-otrs
+  210  pip install zabbix-api -y
+  211  pip install zabbix-api
+  212  pwd
+  213  vim /etc/my.cnf
+  214  systemctl restart mariadb
+  215  vim /etc/my.cnf
+  216  systemctl restart mariadb
+  217  systemctl status mariadb
+  218  df -h /
+  219  tail -f /var/log/zabbix/zabbix_server.log 
+  220  tail -f /var/log/mariadb/mariadb.log 
+  221  systemctl status sshd
+  222  tail -f /var/log/mariadb/mariadb.log 
+  223  cd /home/
+  224  ls
+  225  cd dicsi/
+  226  ls
+  227  systemctl status httpd
+  228  systemctl status mariadb
+  229  tail -f /var/log/httpd/access_log 
+  230  vim /etc/zabbix/zabbix_agentd.conf 
+  231  systemctl restart zabbix-agent
+  232  pwd
+  233  cd /home/dicsi/
+  234  ls
+  235  systemctl status ntpd
+  236  systemctl enalbe ntpd
+  237  systemctl enable ntpd
+  238  systemctl start ntpd
+  239  systemctl status ntpd
+  240  pwd
+  241  cd /tmp/
+  242  ls
+  243  mv -v zabbix-otrs-2/ /home/dicsi/
+  244  ls
+  245  cd -
+  246  ls
+  247  cd zabbix-otrs-2/
+  248  ls
+  249  vim integraZabbix.yml 
+  250  cat /opt/otrs/RELEASE
+  251  ls
+  252  vim integraZabbix.yml 
+  253  ls
+  254  vim integraZabbix.yml 
+  255  vim /etc/zabbix/zabbix_agentd.conf 
+  256  systemctl restart zabbix-agent
+  257  ifconfig -a
+  258  cd /usr/lib/zabbix/externalscripts/
+  259  ls
+  260  mv -v /home/dicsi/zabbix-otrs-2/otrs_zabbix.py .
+  261  ls
+  262  chmod +x otrs_zabbix.py 
+  263  ls
+  264  vim otrs_zabbix.py 
+  265  pwd
+  266  mv -v /home/dicsi/zabbix-otrs-2/ack_zabbix_otrs.py .
+  267  ls
+  268  chmod +x ack_zabbix_otrs.py 
+  269  ls
+  270  mv -v ack_zabbix_otrs.py ack_zabbix.py
+  271  ls
+  272  vim ack_zabbix.py 
+  273  vim otrs_zabbix.py 
+  274  ls
+  275  vim otrs_zabbix.py 
+  276  systemctl stop ntpd
+  277  systemctl status ntpd
+  278  vim /etc/sudoers
+  279  systemctl start ntpd
+  280  systemctl stop ntpd
+  281  systemctl start ntpd
+  282  vim /etc/sysconfig/selinux 
+  283  iptables -L
+  284  cd /home/dicsi/
+  285  ls
+  286  iptables -L > regra_firewall.txt
+  287  ls
+  288  vim regra_firewall.txt 
+  289  iptables -F
+  290  systemctl stop ntpd
+  291  systemctl status ntpd
+  292  systemctl start ntpd
+  293  ls
+  294  cd /usr/lib/zabbix/externalscripts/
+  295  ls
+  296  vim otrs_zabbix.py 
+  297  reboot 
+  298  ping 8.8.8.8
+  299  systemctl restart ntpd
+  300  cat /etc/os-release 
+  301  vim /usr/lib/zabbix/externalscripts/
+  302  vim /usr/lib/zabbix/externalscripts/ack_zabbix.py 
+  303  cd /home/dicsi/
+  304  ls
+  305  cd zabbix-otrs-2/
+  306  ls
+  307  vim integraZabbix.yml 
+  308  cd -
+  309  pwd
+  310  cd /usr/lib/zabbix/externalscripts/
+  311  ls
+  312  vim otrs_zabbix.py 
+  313  ls
+  314  cp -v otrs_zabbix.py /home/dicsi/zabbix-otrs-2/otrs_zabbix_original.py
+  315  ls
+  316  vim otrs_zabbix.py 
+  317  ls
+  318  vim ack_zabbix.py 
+  319  mv -v ack_zabbix.py /home/dicsi/
+  320  ls
+  321  systemctl restart zabbix-agent
+  322  systemctl restart zabbix-server
+  323  systemctl stop ntpd
+  324  systemctl status ntpd
+  325  tail -f /var/log/zabbix/zabbix_server.log 
+  326  ls
+  327  python otrs_zabbix.py 
+  328  vim otrs_zabbix.py 
+  329  systemctl restart zabbix-agent
+  330  python otrs_zabbix.py 
+  331  vim otrs_zabbix.py 
+  332  vim /etc/sudoers
+  333  python otrs_zabbix.py 
+  334  python2 otrs_zabbix.py 
+  335  vim otrs_zabbix.py 
+  336  python otrs_zabbix.py 
+  337  vim otrs_zabbix.py 
+  338  python otrs_zabbix.py 
+  339  systemctl status ntpd
+  340  systemctl start ntpd
+  341  systemctl stop ntpd
+  342  systemctl start ntpd
+  343  systemctl status ntpd
+  344  systemctl stop ntpd
+  345  systemctl start ntpd
+  346  systemctl status ntpd
+  347  systemctl stop ntpd
+  348  systemctl status ntpd
+  349  systemctl start ntpd
+  350  systemctl status ntpd
+  351  ls
+  352  cp -v otrs_zabbix.py /home/dicsi/novo_otrs_zabbix.py
+  353  ls
+  354  cd /home/dicsi/
+  355  ls
+  356  vim novo_otrs_zabbix.py 
+  357  ls
+  358  vim novo_otrs_zabbix.py 
+  359  pwd
+  360  cd -
+  361  ls
+  362  systemctl status ntpd
+  363  systemctl stop ntpd
+  364  systemctl status ntpd
+  365  cd /home/dicsi/
+  366  ls
+  367  l
+  368  ls
+  369  scp novo_otrs_zabbix.py absouza@200.144.112.165:/tmp
+  370  systemctl status ntpd
+  371  systemctl start ntpd
+  372  systemctl status ntpd
+  373  systemctl stop ntpd
+  374  pwd
+  375  ls
+  376  history > comandos_servidor_zabbix_otrs.txt
