@@ -21,7 +21,7 @@
 - Você deve fazer o download do pacote no site do OTRS.
   - https://community.otrs.com/download-otrs-community-edition/ ou siga a página abaixo:
   
-![Download de pacotes](zabbix-otrs/images/otrs-down.png)
+![Download](zabbix-otrs/images/otrs-down.png)
 
 
 ### Etapa 4 - 
