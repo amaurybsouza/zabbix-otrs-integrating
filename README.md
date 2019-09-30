@@ -21,6 +21,7 @@
 - Você deve fazer o download do pacote no site do OTRS.
   - https://community.otrs.com/download-otrs-community-edition/ ou siga a página abaixo:
   
+  
 ![otrs-down.png](images/otrs-down.png)
 
 
