@@ -16,6 +16,8 @@
   - OTRS 6
   - Python 2.7
   
+- Dependências a serem instaladas:
+  
   - $yum install python-pip
   - $pip install python-otrs
   - $pip install zabbix-api
