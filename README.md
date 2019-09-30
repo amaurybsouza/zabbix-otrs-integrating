@@ -18,9 +18,10 @@
   
 - Dependências a serem instaladas:
   
-  - $yum install python-pip
-  - $pip install python-otrs
-  - $pip install zabbix-api
+  - $ yum install python-pip
+  - $ pip install python-otrs
+  - $ pip install zabbix-api
+  - $ yum install -y "perl(Crypt::SSLeay)" "perl(Date::Format)" "perl(DateTime)" "perl(IO::Socket::SSL)"            "perl(LWP::UserAgent)" "perl(Net::DNS)" "perl(Net::LDAP)" "perl(Template)" "perl(URI)" "perl(XML::LibXSLT)" perl-core procmail
 
 ### Etapa 3 - Download de pacote
 
