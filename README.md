@@ -32,9 +32,12 @@
 ![otrs-down.png](images/otrs-down.png)
 
 
-### Etapa 4 - 
+### Etapa 4 - Instalação do pacote no menu de administração do OTRS
+
+- Navegar até o gerenciador de pacotes do OTRS, e adicionar o pacote que foi baixado:
 
 
+![pacotes.png](images/pacotes_otrs.png)
 
 
 
