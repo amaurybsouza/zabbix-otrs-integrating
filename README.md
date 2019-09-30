@@ -8,9 +8,13 @@
 
 - Utilizar o script (install_zabbix.sh) para a instalação da aplicação de monitoramento.
 
-### Etapa 2 - Instalação de dependência nos sistemas
+### Etapa 2 - Instalação de dependências no sistema
 
-- 
+- Vamos utilizar o seguinte cenário para esse projeto:
+  - CentOS 7
+  - Zabbix 3.4
+  - OTRS 6
+  - Python 2.7
 
 ### Etapa 3 - 
 
