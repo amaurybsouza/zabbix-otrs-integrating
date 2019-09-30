@@ -1,6 +1,6 @@
 ## PROJETO DE INTEGRAÇÃO DO ZABBIX COM OTRS (TICKET TOOL)
 
-- Eu vou demonstrar o projeto usando scripts (Bash), é uma forma automatizada de instalar as aplicações. Depois será abordado o uso do Ansible para gestão de configuração.
+- Eu vou demonstrar o projeto usando scripts (Bash), é uma forma automatizada de instalar as aplicações. Depois será abordado o uso do Ansible para gestão de configuração nos hosts remoto, onde criarei uma playbook para promover um ambiente automatizado.
 
 ### Etapa 1 - Preparação do ambiente para instalação do OTRS 6
 
