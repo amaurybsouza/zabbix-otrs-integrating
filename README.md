@@ -16,9 +16,9 @@
   - OTRS 6
   - Python 2.7
   
-  - # yum install python-pip
-  - # pip install python-otrs
-  - # pip install zabbix-api
+  - $yum install python-pip
+  - $pip install python-otrs
+  - $pip install zabbix-api
 
 ### Etapa 3 - Download de pacote
 
