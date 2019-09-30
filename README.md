@@ -15,10 +15,14 @@
   - Zabbix 3.4
   - OTRS 6
   - Python 2.7
+  
+  - # yum install python-pip
+  - # pip install python-otrs
+  - # pip install zabbix-api
 
-### Etapa 3 - 
+### Etapa 3 - Download de pacote
 
-- Você deve fazer o download do pacote no site do OTRS.
+- Você deve fazer o download do pacote Bundle no site do OTRS (Bundle - OTRS::ITSM 6 Patch Level 22)
 
   - https://community.otrs.com/download-otrs-community-edition/ ou siga a página abaixo:
   
@@ -27,6 +31,8 @@
 
 
 ### Etapa 4 - 
+
+
 
 
 
