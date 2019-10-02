@@ -4,9 +4,12 @@
 
 ### Etapa 1 - Preparação do ambiente para instalação do OTRS 6
 
-- Utilizar o script (install_otrs.sh) para instalação da aplicação de tickets.
+- Utilizar o link abaixo para a instalação da aplicação de tickets.
+https://medium.com/@amaurybsouza/otrs6-d4abf0915de
 
-- Utilizar o script (install_zabbix.sh) para a instalação da aplicação de monitoramento.
+- Utilizar o link abaixo para a instalação da aplicação de monitoramento Zabbix:
+https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
+
 
 ### Etapa 2 - Instalação de dependências no sistema
 
