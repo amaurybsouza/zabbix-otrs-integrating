@@ -5,9 +5,11 @@
 ### Etapa 1 - Preparação do ambiente para instalação do OTRS 6
 
 - Utilizar o link abaixo para a instalação da aplicação de tickets.
+
 https://medium.com/@amaurybsouza/otrs6-d4abf0915de
 
 - Utilizar o link abaixo para a instalação da aplicação de monitoramento Zabbix:
+
 https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
 
 
