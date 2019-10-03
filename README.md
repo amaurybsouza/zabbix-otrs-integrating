@@ -33,7 +33,6 @@
   
 ![otrs-down.png](images/otrs-down.png)
 
-
 ### Etapa 4 - Instalação do pacote no menu de administração do OTRS
 
 - Navegar até o gerenciador de pacotes do OTRS, e adicionar o pacote que foi baixado:
@@ -41,9 +40,14 @@
 
 ![pacotes.png](images/pacotes_otrs.png)
 
+- Basta clicar em instalar pacote que o OTRS reconhece.
 
+### Etapa 5 - Importação do web service para o OTRS
 
-### Etapa 5 - 
+- Vamos começar acessando o gerenciamento de web services do sistema dentro do painel de administração do OTRS.
+- Para adicionar o web service, basta clicar em adicionar serviço web e selecione o arquivo IntegraZabbix.yml
+
+### Etapa 6 - Criação dos atendentes no sistema OTRS
 
 
 
