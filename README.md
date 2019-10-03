@@ -49,6 +49,13 @@
 
 ### Etapa 6 - Criação dos atendentes no sistema OTRS
 
+- Nessa parte temos que criar os atendentes, navegue até a imagem abaixo no menu administração.
+
+
+[atendentes.png](images/atendentesotrs.png)
+
+- sdsdsdsd
+
 
 
 
