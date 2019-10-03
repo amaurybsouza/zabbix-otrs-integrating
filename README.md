@@ -4,9 +4,9 @@
 
 ### Etapa 1 - Preparação e instalação das aplicações OTRS e Zabbix
 
-- Utilizar o link para a instalação da aplicação de tickets: https://medium.com/@amaurybsouza/otrs6-d4abf0915de
+- Instalação da aplicação OTRS: https://medium.com/@amaurybsouza/otrs6-d4abf0915de
 
-- Utilizar o link para a instalação da aplicação de monitoramento Zabbix: https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
+- Instalação da aplicação Zabbix: https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
 
 
 ### Etapa 2 - Instalação de dependências no sistema
