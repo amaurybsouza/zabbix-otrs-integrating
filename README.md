@@ -2,15 +2,11 @@
 
 - Eu vou demonstrar o projeto usando scripts (Bash), é uma forma automatizada de instalar as aplicações. Depois será abordado o uso do Ansible para gestão de configuração nos hosts remoto, onde criarei uma playbook para promover um ambiente automatizado.
 
-### Etapa 1 - Preparação do ambiente para instalação do OTRS 6
+### Etapa 1 - Preparação e instalação das aplicações OTRS e Zabbix
 
-- Utilizar o link abaixo para a instalação da aplicação de tickets.
+- Utilizar o link para a instalação da aplicação de tickets: https://medium.com/@amaurybsouza/otrs6-d4abf0915de
 
-https://medium.com/@amaurybsouza/otrs6-d4abf0915de
-
-- Utilizar o link abaixo para a instalação da aplicação de monitoramento Zabbix:
-
-https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
+- Utilizar o link para a instalação da aplicação de monitoramento Zabbix: https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
 
 
 ### Etapa 2 - Instalação de dependências no sistema
