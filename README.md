@@ -52,7 +52,7 @@
 - Nessa parte temos que criar os atendentes, navegue até a imagem abaixo no menu administração.
 
 
-[atendentes.png](images/atendentesotrs.png)
+[atendentesotrs.png](images/atendentesotrs.png)
 
 - sdsdsdsd
 
