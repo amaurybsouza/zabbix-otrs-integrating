@@ -1,6 +1,6 @@
 ## PROJETO DE INTEGRAÇÃO DO ZABBIX COM OTRS (TICKET TOOL)
 
-- Eu vou demonstrar o projeto usando scripts (Bash), é uma forma automatizada de instalar as aplicações. Depois será abordado o uso do Ansible para gestão de configuração nos hosts remoto, onde criarei uma playbook para promover um ambiente automatizado.
+- Basicamente esse projeto mostra como definir toda a stack de configuração do zabbix 3.4 e OTRS 6 para abertura automática de tickets direto na tela do OTRS, através do acionamento de uma trigger do zabbix. Depois será abordado o uso do Ansible para gestão de configuração no hosts remoto, onde criarei uma playbook para promover um ambiente automatizado.
 
 ### Etapa 1 - Preparação e instalação das aplicações OTRS e Zabbix
 
