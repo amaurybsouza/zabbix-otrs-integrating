@@ -3,8 +3,8 @@
 # ------------------------------------------------------------------------ #
 # Script Name:   zabbix-otrs-integrate.py 
 # Description:   Zabbix
-# Author: Janssen dos Reis Lima - janssenreislima@gmail.com
-# Maintenance:   Amaury Souza  - amaurybsouza@gmail.com
+# Author: Janssen Reis Lima - janssenreislima@gmail.com
+# Maintenance:   Amaury Souza   - amaurybsouza@gmail.com
 # ------------------------------------------------------------------------ #
 # Usage:         
 #       $ /usr/lib/zabbix/externalscripts/zabbix-otrs-integrate.py
