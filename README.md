@@ -56,7 +56,7 @@ Projeto: https://github.com/ewsterrenburg/python-otrs
 - Nessa parte temos que criar os atendentes, navegue até a imagem abaixo no menu administração.
 
 
-![atendentesotrs.png](images/atendentesotrs.png)
+![atendentesotrs.png](images/git2.png)
 
 - sdsdsdsd
 
