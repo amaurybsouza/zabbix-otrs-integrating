@@ -4,13 +4,13 @@
 
 ### Etapa 1 - Preparação e instalação das aplicações OTRS e Zabbix
 
-- Instalação da aplicação OTRS: https://medium.com/@amaurybsouza/otrs6-d4abf0915de
+`- Instalação da aplicação OTRS: https://medium.com/@amaurybsouza/otrs6-d4abf0915de`
 
-- Instalação da aplicação Zabbix: https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
+`- Instalação da aplicação Zabbix: https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2`
 
 Caso você queira estudar a API de integração e os módulos, segue o link do projeto abaixo:
 
-Projeto: https://github.com/ewsterrenburg/python-otrs
+`Projeto: https://github.com/ewsterrenburg/python-otrs`
 
 
 ### Etapa 2 - Instalação de dependências no sistema
@@ -32,7 +32,7 @@ Projeto: https://github.com/ewsterrenburg/python-otrs
 
 - Você deve fazer o download do pacote Bundle no site do OTRS (Bundle - OTRS::ITSM 6 Patch Level 22)
 
-  - https://community.otrs.com/download-otrs-community-edition/ conforme a página abaixo:
+  `- https://community.otrs.com/download-otrs-community-edition/ conforme a página abaixo:`
   
   
 ![otrs-down.png](images/git1.png)
@@ -56,9 +56,32 @@ Projeto: https://github.com/ewsterrenburg/python-otrs
 - Nessa parte temos que criar os atendentes, navegue até a imagem abaixo no menu administração.
 
 
-![atendentesotrs.png](images/atendentesotrs.png)
+![atendentesotrs.png](images/git2.png)
 
-- sdsdsdsd
+- Ao clicar em `Atendentes`, você deve preencher os campos:
+  - Título;
+  - Nome;
+  - Sobrenome;
+  - Login;
+  - Senha;
+  - E-mail;
+  - Validade.
+
+- Temos que ficar atentos ao ID do usuário que será criado pois no script Python teremos que passar esse ID.
+
+### Etapa 7 - Criação de estado de chamado no OTRS
+
+- Para isso acesse o painel de administração do OTRS, Configurações de chamado -> Estados.
+- Clique em `Adicionar Estado` e complete os campos:
+  - Nome;
+  - Tipo do estado;
+  - Validade;
+  - Comentários.
+ 
+### Etapa 8 - Criação de campos dinâmicos no OTRS
+
+- sdsdsdsddsd
+
 
 
 
