@@ -92,6 +92,27 @@ Caso você queira estudar a API de integração e os módulos, segue o link do p
 
 ![campos.png](images/git5.png)
 
+### Etapa 9 - Ativar comandos remotos do Zabbix
+
+- Nessa etaá temos que ativar os comandos remotos no servidor do zabbix para que nossa ação funcione de forma íntrega.
+- Abra o arquivo `/etc/zabbix/zabbix_agentd.conf` e adicione 1 ao valor da chave:
+
+`### Option: EnableRemoteCommands
+#       Whether remote commands from Zabbix server are allowed.
+#       0 - not allowed
+#       1 - allowed
+#
+# Mandatory: no
+# Default:
+EnableRemoteCommands=1`
+
+
+sasasasasas
+asasasasas
+
+
+
+
 
 
 
