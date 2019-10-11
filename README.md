@@ -8,6 +8,10 @@
 
 - Instalação da aplicação Zabbix: https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
 
+Caso você queira estudar a API de integração e os módulos, segue o link do projeto abaixo:
+
+Projeto: https://github.com/ewsterrenburg/python-otrs
+
 
 ### Etapa 2 - Instalação de dependências no sistema
 
