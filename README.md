@@ -80,7 +80,11 @@ Caso você queira estudar a API de integração e os módulos, segue o link do p
  
 ### Etapa 8 - Criação de campos dinâmicos no OTRS
 
-- sdsdsdsddsd
+- Nessa parte vamos criar os campos dinâmicos no OTRS para que seja possível gerenciar as triggers.
+- Vamos adicionar três campos:
+  - ZabbixIdTrigger
+  - ZabbixEvento
+  - ZabbixStateTrigger
 
 ![campos.png](images/git4.png)
 
