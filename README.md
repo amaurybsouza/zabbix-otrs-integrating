@@ -103,6 +103,7 @@ Caso você queira estudar a API de integração e os módulos, segue o link do p
 
 ### Etapa 10 - Configurar ação no Zabbix
 
+- Para criar um ação no Zabbix, vamos em `configuração` e depois `ações`. Vamos chamar essa ação de: `Integração OTRS Zabbix`.
 - Veja abaixo o modelo de ação no Zabbix:
 
 ![campos.png](images/git6.png)
