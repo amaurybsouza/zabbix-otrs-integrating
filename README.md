@@ -10,7 +10,7 @@
 
 Caso você queira estudar a API de integração e os módulos, segue o link do projeto abaixo:
 
-Projeto: https://github.com/ewsterrenburg/python-otrs
+`Projeto: https://github.com/ewsterrenburg/python-otrs`
 
 
 ### Etapa 2 - Instalação de dependências no sistema
@@ -32,7 +32,7 @@ Projeto: https://github.com/ewsterrenburg/python-otrs
 
 - Você deve fazer o download do pacote Bundle no site do OTRS (Bundle - OTRS::ITSM 6 Patch Level 22)
 
-  - https://community.otrs.com/download-otrs-community-edition/ conforme a página abaixo:
+  `- https://community.otrs.com/download-otrs-community-edition/ conforme a página abaixo:`
   
   
 ![otrs-down.png](images/git1.png)
