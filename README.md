@@ -118,18 +118,6 @@ Caso você queira estudar a API de integração e os módulos, segue o link do p
 
 ![campos.png](images/git8.png)
 
+### Etapa 12 - Criação de playbook para provisionamento com Ansible
 
-
-
-asasasasas
-
-
-
-
-
-
-
-
-
-
-
+- Estou trabalhando nessa parte para que esse projeto seja automatizado usandoo Ansible.
