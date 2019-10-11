@@ -58,7 +58,30 @@ Projeto: https://github.com/ewsterrenburg/python-otrs
 
 ![atendentesotrs.png](images/git2.png)
 
-- sdsdsdsd
+- Ao clicar em Atendentes, você deve preencher os campos:
+  - Título;
+  - Nome;
+  - Sobrenome;
+  - Login;
+  - Senha;
+  - E-mail;
+  - Validade.
+
+- Temos que ficar atentos ao ID do usuário que será criado pois no script Python teremos que passar esse ID.
+
+### Etapa 7 - Criação de estado de chamado no OTRS
+
+- Para isso acesse o painel de administração do OTRS, Configurações de chamado -> Estados.
+- Clique em `Adicionar Estado` e complete os campos:
+  - Nome;
+  - Tipo do estado;
+  - Validade;
+  - Comentários.
+ 
+### Etapa 8 - Criação de campos dinâmicos no OTRS
+
+- sdsdsdsddsd
+
 
 
 
