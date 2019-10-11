@@ -88,6 +88,12 @@ Caso você queira estudar a API de integração e os módulos, segue o link do p
 
 ![campos.png](images/git4.png)
 
+- Veja como ficou os campos depois de adicionados:
+
+![campos.png](images/git5.png)
+
+
+
 
 
 
