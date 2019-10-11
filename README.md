@@ -4,9 +4,9 @@
 
 ### Etapa 1 - Preparação e instalação das aplicações OTRS e Zabbix
 
-- Instalação da aplicação OTRS: https://medium.com/@amaurybsouza/otrs6-d4abf0915de
+`- Instalação da aplicação OTRS: https://medium.com/@amaurybsouza/otrs6-d4abf0915de`
 
-- Instalação da aplicação Zabbix: https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2
+`- Instalação da aplicação Zabbix: https://medium.com/@amaurybsouza/instalação-do-zabbix-server-4-2-all-in-one-748622cdbf2`
 
 Caso você queira estudar a API de integração e os módulos, segue o link do projeto abaixo:
 
@@ -58,7 +58,7 @@ Projeto: https://github.com/ewsterrenburg/python-otrs
 
 ![atendentesotrs.png](images/git2.png)
 
-- Ao clicar em Atendentes, você deve preencher os campos:
+- Ao clicar em `Atendentes`, você deve preencher os campos:
   - Título;
   - Nome;
   - Sobrenome;
