@@ -114,6 +114,10 @@ Caso você queira estudar a API de integração e os módulos, segue o link do p
 
 ![campos.png](images/git7.png)
 
+- Agora veja como fica no OTRS 6 o chamado:
+
+![campos.png](images/git8.png)
+
 
 
 
