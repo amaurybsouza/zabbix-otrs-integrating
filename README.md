@@ -108,7 +108,15 @@ Caso você queira estudar a API de integração e os módulos, segue o link do p
 ![campos.png](images/git6.png)
 
 
-sasasasasas
+### Etapa 11 - Confira a abertura de chamados 
+
+- Nessa etapa irei mostrar o chamado sendo aberto no OTRS 6:
+
+![campos.png](images/git7.png)
+
+
+
+
 asasasasas
 
 
