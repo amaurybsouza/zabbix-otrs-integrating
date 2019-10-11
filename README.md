@@ -99,6 +99,14 @@ Caso você queira estudar a API de integração e os módulos, segue o link do p
 
 `EnableRemoteCommands=1`
 
+- Feito isso, reinicie o serviço do zabbix-agent
+
+### Etapa 10 - Configurar ação no Zabbix
+
+- Veja abaixo o modelo de ação no Zabbix:
+
+![campos.png](images/git6.png)
+
 
 sasasasasas
 asasasasas
