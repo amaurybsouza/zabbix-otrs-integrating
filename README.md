@@ -28,10 +28,10 @@
 
 - Você deve fazer o download do pacote Bundle no site do OTRS (Bundle - OTRS::ITSM 6 Patch Level 22)
 
-  - https://community.otrs.com/download-otrs-community-edition/ ou siga a página abaixo:
+  - https://community.otrs.com/download-otrs-community-edition/ conforme a página abaixo:
   
   
-![otrs-down.png](images/otrs-down.png)
+![otrs-down.png](images/git1.png)
 
 ### Etapa 4 - Instalação do pacote no menu de administração do OTRS
 
